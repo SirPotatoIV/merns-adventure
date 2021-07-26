@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is currently in development. This application will be presented as part of MongoDB Live 2021.
+This project is currently in development. This application will be presented as part of MongoDB Live 2021. The app is deployed at https://merns-adventure.netlify.app/.
 
 ## Attributions
 
